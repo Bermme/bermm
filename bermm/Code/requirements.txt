@@ -1,0 +1,7 @@
+panda3d
+pyttsx3
+speechrecognition
+opencv-python
+mediapipe
+nltk
+openai
